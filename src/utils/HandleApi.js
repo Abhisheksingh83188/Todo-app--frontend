@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseUrl = "https://todo-app-backend-yn2m.onrender.com"
+const baseUrl = "https://todo-app-backend-3u7s.onrender.com"
 
 const getAllToDo = (setToDo) => {
        axios
